@@ -6,6 +6,13 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 ](https://arxiv.org/abs/1902.02376).See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
 
+#### January 3rd, 2020
+- **Paper**: [25 years of the WOFOST cropping systems model](https://www.sciencedirect.com/science/article/pii/S0308521X17310107?via%3Dihub)
+- **Authors**: [de Wit](https://www.wur.nl/en/Persons/Allard-dr.-AJW-Allard-de-Wit.htm), et al.
+- **Presenters**: [Ramani Lachyan](https://www.linkedin.com/in/ramani-lachyan-77982918a/), [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
+
+<img src="images/woforst_figure.png" width="400pt">
+
 #### November 26, 2019
 - **Paper**: [Challenges and design choices for global weather and climate models based on machine learning](https://www.geosci-model-dev.net/11/3999/2018/)
 - **Authors**: [Peter D. Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben), [Peter Bauer](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-bauer)
