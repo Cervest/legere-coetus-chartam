@@ -6,7 +6,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 ](https://arxiv.org/abs/1902.02376).See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
 
-#### January 3rd, 2020
+#### January 3, 2020
 - **Paper**: [25 years of the WOFOST cropping systems model](https://www.sciencedirect.com/science/article/pii/S0308521X17310107?via%3Dihub)
 - **Authors**: [de Wit](https://www.wur.nl/en/Persons/Allard-dr.-AJW-Allard-de-Wit.htm), et al.
 - **Presenters**: [Ramani Lachyan](https://www.linkedin.com/in/ramani-lachyan-77982918a/), [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
@@ -26,6 +26,13 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Presenter**: [Maxime Rischard](https://uk.linkedin.com/in/maxime-rischard-5229607b)
 
 <img src="images/julia-ode.gif" width="400pt">
+
+#### October 25, 2019
+- **Paper**: [MCYFS Forecasting Methodology](https://marswiki.jrc.ec.europa.eu/agri4castwiki/index.php/Forecasting_methods), [Performance of the MARS-crop yield forecasting system for the EuropeanUnion: Assessing accuracy, in-season, and year-to-year improvements from1993 to 2015](https://www.sciencedirect.com/science/article/pii/S0308521X18300179)
+- **Authors**: [Marijn Van Der Velde](https://twitter.com/marijnvdv78?lang=en), [Luigi Nisini](https://www.linkedin.com/in/luigi-nisini-4629098/)
+- **Presenters**: [Ramani Lachyan](https://www.linkedin.com/in/ramani-lachyan-77982918a/), [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
+
+<img src="images/mcyfs_performance_figure.png" width="400pt">
 
 #### October 3, 2019
 - **Paper**: [The Ethics of AI Ethics](https://arxiv.org/pdf/1903.03425.pdf)
