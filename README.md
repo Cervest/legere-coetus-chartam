@@ -13,13 +13,6 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/dueben_challenges.png" width="400pt">
 
-#### November 3, 2020
-- **Paper**: [DiffEqFlux.jl - A Julia Library for Neural Differential Equations](https://arxiv.org/abs/1902.02376)
-- **Authors**: [Chris Rackauckas](https://twitter.com/chrisrackauckas?lang=en), [Mike Innes](https://twitter.com/mikejinnes?lang=en), [Yingbo Ma](), [Jesse Bettencourt](), [Lyndon White](), [Vaibhav Dixit]()
-- **Presenter**: [Maxime Rischard](https://uk.linkedin.com/in/maxime-rischard-5229607b)
-
-<img src="images/julia-ode.gif" width="400pt">
-
 #### November 6, 2019
 - **Paper**: [DiffEqFlux.jl - A Julia Library for Neural Differential Equations](https://arxiv.org/abs/1902.02376)
 - **Authors**: [Chris Rackauckas](https://twitter.com/chrisrackauckas?lang=en), [Mike Innes](https://twitter.com/mikejinnes?lang=en), [Yingbo Ma](), [Jesse Bettencourt](), [Lyndon White](), [Vaibhav Dixit]()
