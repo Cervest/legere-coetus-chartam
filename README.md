@@ -57,6 +57,14 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/kastens.png" width="450pt">
 
+#### August 12, 2019
+
+- **Paper**: [Improving Subseasonal Forecasting in the Western U.S. with Machine Learning](https://arxiv.org/abs/1809.07394)
+- **Authors**: [Jessica Hwang](), [Paulo Orenstein](http://stanford.edu/~pauloo/), [Judah Cohen](http://www.judahcohen.org/), [Karl Pfeiffer](), [Lester Mackey](https://web.stanford.edu/~lmackey/)
+- **Presenter**: [Jev Gamper](https://mobile.twitter.com/brutforcimag)
+
+<img src="images/ml_midrange.png" width="450pt">
+
 ### Planned Discussions
 
 #### March 16, 2020
