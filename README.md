@@ -5,6 +5,13 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### January 23, 2020
+- **Paper**: [Towards a continuous approach of functional-structural plant growth](https://hal.archives-ouvertes.fr/hal-00529351/document)
+- **Authors**: [Zhongping Li. et al]
+- **Presenter**: [Maud Lemercier]
+
+<img src="images/maudpaperimage.png", width="400pt"
+
 
 #### January 3, 2020
 - **Paper**: [25 years of the WOFOST cropping systems model](https://www.sciencedirect.com/science/article/pii/S0308521X17310107?via%3Dihub)
@@ -33,6 +40,13 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Presenters**: [Ramani Lachyan](https://www.linkedin.com/in/ramani-lachyan-77982918a/), [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
 
 <img src="images/mcyfs_performance_figure.png" width="400pt">
+
+#### October 14, 2019
+- **Paper**: [FORCE—Landsat + Sentinel-2 Analysis Ready Data and Beyond] (https://www.mdpi.com/2072-4292/11/9/1124/pdf)
+- **Autors**: [David Frantz](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/david_frantz)
+- **Presenters**: Micheal Griffiths
+<img src="images/FORCE.png" width="400pt">
+
 
 #### October 3, 2019
 - **Paper**: [The Ethics of AI Ethics](https://arxiv.org/pdf/1903.03425.pdf)
