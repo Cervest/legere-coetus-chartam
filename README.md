@@ -12,7 +12,6 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/maudpaperimage.png" width="400pt">
 
-
 #### January 3, 2020
 - **Paper**: [25 years of the WOFOST cropping systems model](https://www.sciencedirect.com/science/article/pii/S0308521X17310107?via%3Dihub)
 - **Authors**: [de Wit](https://www.wur.nl/en/Persons/Allard-dr.-AJW-Allard-de-Wit.htm), et al.
@@ -42,7 +41,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 <img src="images/mcyfs_performance_figure.png" width="400pt">
 
 #### October 14, 2019
-- **Paper**: [FORCE—Landsat + Sentinel-2 Analysis Ready Data and Beyond] (https://www.mdpi.com/2072-4292/11/9/1124/pdf)
+- **Paper**: [FORCE—Landsat + Sentinel-2 Analysis Ready Data and Beyond](https://www.mdpi.com/2072-4292/11/9/1124/pdf)
 - **Autors**: [David Frantz](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/david_frantz)
 - **Presenters**: Micheal Griffiths
 <img src="images/FORCE.png" width="400pt">
