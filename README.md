@@ -41,6 +41,14 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/aiethics.png" width="400pt">
 
+#### September 3, 2019
+
+- **Paper**: [Image masking for crop yield forecasting using AVHRR NDVI time series imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425705003056)
+- **Authors**: [Jude H. Kastens](https://biosurvey.ku.edu/directory/jude-kastens), [Terry L. Kastens](https://www.ageconomics.k-state.edu/directory/emeritus_faculty/kastens/index.html), [Dietrich L.A. Kastens](https://twitter.com/dietrichkastens?lang=en), [Kevin P. Prince](https://www.mendeley.com/authors/7201789575/), [Edward A. Martinko](https://eeb.ku.edu/edward-martinko), [Re-Yang Lee](https://www.mendeley.com/authors/7408199876/)
+- **Presenter**: [Owen van Eer](https://www.linkedin.com/in/owen-van-eer-562816147/)
+
+<img src="images/kastens.png" width="450pt">
+
 ### Planned Discussions
 
 #### March 16, 2020
