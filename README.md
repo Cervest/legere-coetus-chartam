@@ -8,7 +8,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 #### January 23, 2020
 - **Paper**: [Towards a continuous approach of functional-structural plant growth](https://hal.archives-ouvertes.fr/hal-00529351/document)
 - **Authors**: Zhongping Li. et al
-- **Presenter**: Maud Lemercier
+- **Presenter**: [Maud Lemercier](https://www.turing.ac.uk/people/researchers/maud-lemercier)
 
 <img src="images/maudpaperimage.png" width="400pt">
 
