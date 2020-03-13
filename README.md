@@ -10,7 +10,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Authors**: Zhongping Li. et al
 - **Presenter**: Maud Lemercier
 
-<img src="images/maudpaperimage.png", width="200pt">
+<img src="images/maudpaperimage.png" width="400pt">
 
 
 #### January 3, 2020
