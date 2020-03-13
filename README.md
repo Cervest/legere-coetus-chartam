@@ -41,7 +41,15 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/aiethics.png" width="400pt">
 
-#### September 3, 2019
+#### September 16, 2019
+
+- **Paper**: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+- **Authors**: [Jun-Yan Zhu](https://arxiv.org/search/cs?searchtype=author&query=Zhu%2C+J), [Taesung Park](https://arxiv.org/search/cs?searchtype=author&query=Park%2C+T), [Phillip Isola](https://arxiv.org/search/cs?searchtype=author&query=Isola%2C+P), [Alexei A. Efros](https://arxiv.org/search/cs?searchtype=author&query=Efros%2C+A+A)
+- **Presenter**: [Michael Zotov](https://www.linkedin.com/in/michael-zotov-64b184187/)
+
+<img src="images/image_to_image_translation.png" width="300pt">
+
+#### September 2, 2019
 
 - **Paper**: [Image masking for crop yield forecasting using AVHRR NDVI time series imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425705003056)
 - **Authors**: [Jude H. Kastens](https://biosurvey.ku.edu/directory/jude-kastens), [Terry L. Kastens](https://www.ageconomics.k-state.edu/directory/emeritus_faculty/kastens/index.html), [Dietrich L.A. Kastens](https://twitter.com/dietrichkastens?lang=en), [Kevin P. Prince](https://www.mendeley.com/authors/7201789575/), [Edward A. Martinko](https://eeb.ku.edu/edward-martinko), [Re-Yang Lee](https://www.mendeley.com/authors/7408199876/)
