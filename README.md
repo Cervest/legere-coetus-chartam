@@ -5,6 +5,13 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### March 16, 2020
+- **Paper**: [Efficient multiclass ROC approximation by decompoistion via confusion matrix pertrubation analysis](https://www.researchgate.net/profile/Robert_Duin/publication/5483785_Efficient_Multiclass_ROC_Approximation_by_Decomposition_via_Confusion_Matrix_Perturbation_Analysis/links/55b0f2fd08ae092e964fbb32.pdf)
+- **Authors**: [Thomas C. W. Landgrebe](), [Robert P. W. Duin]()
+- **Presenter**: [Jev Gamper](https://mobile.twitter.com/brutforcimag)
+
+<img src="images/duin.png" width="400pt">
+
 #### January 23, 2020
 - **Paper**: [Towards a continuous approach of functional-structural plant growth](https://hal.archives-ouvertes.fr/hal-00529351/document)
 - **Authors**: Zhongping Li. et al
@@ -79,11 +86,6 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 <img src="images/ml_midrange.png" width="450pt">
 
 ### Planned Discussions
-
-#### March 16, 2020
-- **Paper**: [Efficient multiclass ROC approximation by decompoistion via confusion matrix pertrubation analysis](https://www.researchgate.net/profile/Robert_Duin/publication/5483785_Efficient_Multiclass_ROC_Approximation_by_Decomposition_via_Confusion_Matrix_Perturbation_Analysis/links/55b0f2fd08ae092e964fbb32.pdf)
-- **Authors**: [Thomas C. W. Landgrebe](), [Robert P. W. Duin]()
-- **Presenter**: [Jev Gamper](https://mobile.twitter.com/brutforcimag)
 
 #### March 20, 2020
 - **Paper**: [A Review of the Applications of Remote Sensing in Fire Ecology](https://www.mdpi.com/2072-4292/11/22/2638/htm)
