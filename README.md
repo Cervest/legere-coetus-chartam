@@ -5,6 +5,13 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### March 23, 2020
+- **Paper**: [Causal Bayesian Optimisation]()
+- **Authors**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti), [Xiaoyu Lu](https://xiaoyulu2014.github.io/), [Andrei Paleyes](), [Javier Gonzalez](https://twitter.com/javiergonzh)
+- **Presenter**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti)
+
+<img src="images/viriginia.png" width="400pt">
+
 #### March 20, 2020
 - **Paper**: [A Review of the Applications of Remote Sensing in Fire Ecology](https://www.mdpi.com/2072-4292/11/22/2638/htm)
 - **Authors**: [David M. Szpakowski](), [Jennifer L. R. Jensen]()
@@ -58,6 +65,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Paper**: [FORCE—Landsat + Sentinel-2 Analysis Ready Data and Beyond](https://www.mdpi.com/2072-4292/11/9/1124/pdf)
 - **Autors**: [David Frantz](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/david_frantz)
 - **Presenters**: Micheal Griffiths
+
 <img src="images/FORCE.png" width="400pt">
 
 
