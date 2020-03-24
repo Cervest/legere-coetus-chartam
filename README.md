@@ -6,7 +6,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
 #### March 23, 2020
-- **Paper**: [Causal Bayesian Optimisation]()
+- **Paper**: [Causal Bayesian Optimisation _Link to be added_]()
 - **Authors**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti), [Xiaoyu Lu](https://xiaoyulu2014.github.io/), [Andrei Paleyes](), [Javier Gonzalez](https://twitter.com/javiergonzh)
 - **Presenter**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti)
 
