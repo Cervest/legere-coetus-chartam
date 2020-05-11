@@ -15,7 +15,20 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
   <img src="images/global_flood_framework.png" width="600pt">
 
+#### March 25, 2020
+
+- **Paper**: [The Potential Predictability of Fire Danger Provided by Numerical
+  Weather Prediction](https://journals.ametsoc.org/doi/pdf/10.1175/JAMC-D-15-0297.1)
+
+- **Authors**: [Francesca DI GIUSEPPE](), [Florian Pappenberger](), [Fredrik Wetterhall](), [Blazej Krzeminski](), 
+  [Andrea Camia](), [Giorgio Libertá](), [Jesus San Miguel]()
+
+- **Presenter**: [Ramani Lachyan](https://ch.linkedin.com/in/ramani-lachyan-77982918a)
+
+  <img src="images/fwi_fire_danger.png" width="550pt">
+
 #### March 23, 2020
+
 - **Paper**: [Causal Bayesian Optimisation]()
 - **Authors**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti), [Xiaoyu Lu](https://xiaoyulu2014.github.io/), [Andrei Paleyes](), [Javier Gonzalez](https://twitter.com/javiergonzh)
 - **Presenter**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti)
@@ -109,12 +122,3 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Presenter**: [Jev Gamper](https://mobile.twitter.com/brutforcimag)
 
 <img src="images/ml_midrange.png" width="450pt">
-
-### Planned Discussions
-
-#### March 25, 2020
-- **Paper**: [The Potential Predictability of Fire Danger Provided by Numerical
-Weather Prediction](https://journals.ametsoc.org/doi/pdf/10.1175/JAMC-D-15-0297.1)
-- **Authors**: [Francesca DI GIUSEPPE](), [Florian Pappenberger](), [Fredrik Wetterhall](), [Blazej Krzeminski](), 
-[Andrea Camia](), [Giorgio Libertá](), [Jesus San Miguel]()
-- **Presenter**: [Ramani Lachyan](https://ch.linkedin.com/in/ramani-lachyan-77982918a)
