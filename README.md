@@ -5,6 +5,16 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### May 11, 2020
+
+- **Paper**: [A framework for global river flood risk assessments](https://research.vu.nl/ws/portalfiles/portal/791855/306574.pdf)
+
+- **Authors**: [H. C. Winsemius](https://www.tudelft.nl/en/ceg/about-faculty/departments/watermanagement/staff/staff-hydrology/academic-staff/dr-hessel-winsemius/), [L. P. H. Van Beek](https://www.uu.nl/staff/LPHvanBeek), [B. Jongman](https://scholar.google.nl/citations?user=ww2AjtrbmvQC&hl=en), [P. J. Ward](https://research.vu.nl/en/persons/philip-ward), and [A. Bouwman](https://www.semanticscholar.org/author/A.-F.-Bouwman/143734925)
+
+- **Presenter**: [Owen van Eer](https://twitter.com/owenvaneer)
+
+  <img src="images/global_flood_framework.png" width="600pt">
+
 #### March 23, 2020
 - **Paper**: [Causal Bayesian Optimisation]()
 - **Authors**: [Virginia Aglietti](https://mobile.twitter.com/VGAglietti), [Xiaoyu Lu](https://xiaoyulu2014.github.io/), [Andrei Paleyes](), [Javier Gonzalez](https://twitter.com/javiergonzh)
@@ -88,7 +98,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 - **Paper**: [Image masking for crop yield forecasting using AVHRR NDVI time series imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425705003056)
 - **Authors**: [Jude H. Kastens](https://biosurvey.ku.edu/directory/jude-kastens), [Terry L. Kastens](https://www.ageconomics.k-state.edu/directory/emeritus_faculty/kastens/index.html), [Dietrich L.A. Kastens](https://twitter.com/dietrichkastens?lang=en), [Kevin P. Prince](https://www.mendeley.com/authors/7201789575/), [Edward A. Martinko](https://eeb.ku.edu/edward-martinko), [Re-Yang Lee](https://www.mendeley.com/authors/7408199876/)
-- **Presenter**: [Owen van Eer](https://www.linkedin.com/in/owen-van-eer-562816147/)
+- **Presenter**: [Owen van Eer](https://twitter.com/owenvaneer)
 
 <img src="images/kastens.png" width="450pt">
 
