@@ -5,6 +5,16 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### May 15, 2020
+
+- **Paper**: [Inundation Modeling in Data Scarce Regions](https://arxiv.org/abs/1910.05006)
+
+- **Authors**: [Zvika Ben-Haim](https://research.google/people/author58038/), Vladimir Anisimov, Aaron Yonas, [Varun Gulshan](https://research.google/people/105170/), Yusef Shaf, [Stephan Hoyer](http://stephanhoyer.com/), and [Sella Nevo](https://research.google/people/SellaNevo/)
+
+- **Presenter**: [Maxim Chernetskiy](https://uk.linkedin.com/in/maxim-chernetskiy)
+
+  <img src="images/inundation-scarce-regions.png" width="600pt">
+
 #### May 11, 2020
 
 - **Paper**: [A framework for global river flood risk assessments](https://research.vu.nl/ws/portalfiles/portal/791855/306574.pdf)
