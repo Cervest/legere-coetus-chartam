@@ -5,7 +5,7 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
-#### May 15, 2020
+#### July 17, 2020
 
 - **Paper**: [The increasing likelihood of temperatures above 30 to 40 °C in the United Kingdom](https://www.nature.com/articles/s41467-020-16834-0)
 
