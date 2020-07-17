@@ -7,6 +7,16 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 #### May 15, 2020
 
+- **Paper**: [The increasing likelihood of temperatures above 30 to 40 °C in the United Kingdom](https://www.nature.com/articles/s41467-020-16834-0)
+
+- **Authors**: [Nikolas Christidis](https://research.google/people/author58038/), [Mark McCarthy](https://twitter.com/markpmcc?lang=en) and [Peter Stott](https://twitter.com/stottpeter?lang=en)
+
+- **Presenter**: [Owen van Eer](https://mobile.twitter.com/owenvaneer)
+
+  <img src="images/uk_temperatures.png" width="600pt">
+
+#### May 15, 2020
+
 - **Paper**: [Inundation Modeling in Data Scarce Regions](https://arxiv.org/abs/1910.05006)
 
 - **Authors**: [Zvika Ben-Haim](https://research.google/people/author58038/), Vladimir Anisimov, Aaron Yonas, [Varun Gulshan](https://research.google/people/105170/), Yusef Shaf, [Stephan Hoyer](http://stephanhoyer.com/), and [Sella Nevo](https://research.google/people/SellaNevo/)
