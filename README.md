@@ -5,6 +5,36 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### September 29, 2020
+
+- **Paper**: [Continuous Spatial Process Models for Spatial Extreme Values](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.721.1748&rep=rep1&type=pdf)
+
+- **Authors**: [Huiyan Sang](https://www.stat.tamu.edu/~huiyan/) and [Alan E. Gelfand](https://scholar.google.com/citations?user=8Swgyw4AAAAJ&hl=en)
+
+- **Presenter**: [Maxime Rischard](https://scholar.google.com/citations?user=6mB-h8IAAAAJ&hl=en)
+
+  <img src="images/cspmfsev.png" width="600pt">
+
+#### September 16, 2020
+
+- **Paper**: [ClimAlign: Unsupervised statistical downscaling of climate variables via normalizing flows](https://arxiv.org/abs/2008.04679)
+
+- **Authors**: [Brian Groenke](https://sites.google.com/view/bgroenke/about), [Luke Madaus](https://twitter.com/lmadaus) and [Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/)
+
+- **Presenter**: [Jev Gamper](https://mobile.twitter.com/brutforcimag)
+
+  <img src="images/climalign.png" width="600pt">
+
+#### September 8, 2020
+
+- **Paper**: [Use of climate information for decision making and impacts research: state of our understanding](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Use-of-Climate-Information-for-Decision-Making-and-Impacts-Research-State-of-our-Understanding)
+
+- **Authors**: [Rao Kotamarthi](https://www.anl.gov/profile/rao-kotamarthi), [Linda Mearns](https://staff.ucar.edu/users/lindam), [Kartherine Hayhoe](http://www.katharinehayhoe.com/wp2016/), [Christopher L. Castro](https://has.arizona.edu/people/christopher-l-castro) and [Donald Wuebbles](https://cgs.illinois.edu/people/donald-wuebbles/)
+
+- **Presenter**: [Laura P. Zamboni](https://twitter.com/LauraZamboni6)
+
+  <img src="images/downscaling.png" width="600pt">
+
 #### July 17, 2020
 
 - **Paper**: [The increasing likelihood of temperatures above 30 to 40 °C in the United Kingdom](https://www.nature.com/articles/s41467-020-16834-0)
