@@ -13,6 +13,8 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 - **Presenter**: [Laura Zamboni](https://www.mcs.anl.gov/~lzamboni/)
 
+<img src="images/la_plata_basin.png" width="600pt">
+
 
 #### October 20, 2020
 
@@ -21,6 +23,8 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 - **Authors**: [Manfred Mudelsee](https://www.manfredmudelsee.com/) 
 
 - **Presenter**: [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
+
+<img src="images/gistemp_trend.jpg" width="600pt">
 
 
 #### September 29, 2020
