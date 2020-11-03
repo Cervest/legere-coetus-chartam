@@ -5,6 +5,24 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### November 3, 2020
+
+- **Paper**: [La Plata basin precipitation variability in spring: role of remote SST forcing as simulated by GCM experiments](https://link.springer.com/article/10.1007/s00382-013-1768-y)
+
+- **Authors**: [Annalisa Cherchi](https://www.researchgate.net/profile/Annalisa_Cherchi), [Andrea F. Carril](https://scholar.google.com/citations?user=9qpEAJoAAAAJ), [Claudio G. Menéndez](http://www-atmo.at.fcen.uba.ar/cv/menendez.pdf), and [Laura Zamboni](https://www.mcs.anl.gov/~lzamboni/)
+
+- **Presenter**: [Laura Zamboni](https://www.mcs.anl.gov/~lzamboni/)
+
+
+#### October 20, 2020
+
+- **Paper**: [Trend analysis of climate time series: A review of methods](https://www.sciencedirect.com/science/article/pii/S0012825218303726)
+
+- **Authors**: [Manfred Mudelsee](https://www.manfredmudelsee.com/) 
+
+- **Presenter**: [Lukas Scholtes](https://www.linkedin.com/in/lukas-scholtes-ab40a4138/)
+
+
 #### September 29, 2020
 
 - **Paper**: [Continuous Spatial Process Models for Spatial Extreme Values](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.721.1748&rep=rep1&type=pdf)
