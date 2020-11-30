@@ -5,6 +5,20 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### November 24, 2020
+
+
+- **Paper**: [Flood frequency hydrology: 3. A Bayesian analysis](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2011WR010782)
+
+- **Authors**: [Alberto Viglione](http://www.waterresources.at/index.php?id=117), 
+               [Ralf Merz](https://www.ufz.de/index.php?en=40202), 
+               [José Luis Salinas](http://www.waterresources.at/index.php?id=75), and 
+               [Günter Blöschl](https://en.wikipedia.org/wiki/G%C3%BCnter_Bl%C3%B6schl).
+
+- **Presenter**: Maxime Rischard
+
+<img src="images/viglione2013.png" width="600pt">
+
 #### November 3, 2020
 
 - **Paper**: [La Plata basin precipitation variability in spring: role of remote SST forcing as simulated by GCM experiments](https://link.springer.com/article/10.1007/s00382-013-1768-y)
