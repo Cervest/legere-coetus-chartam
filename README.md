@@ -19,6 +19,27 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/viglione2013.png" width="600pt">
 
+
+#### Novemver 11, 2020
+
+**Paper**: [Quantifying CO2 emissions from individual power plants from space](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL074702)
+
+**Authors**: [Ray Nassar],
+             [Timothy G. Hill],
+             [Chris A. McLinden],
+             [Debra Wunch],
+             [Dylan B.A. Jones],
+             [David Crisp]
+
+**Paper**: [Estimating power plant CO2 emission using OCO-2 XCO2 and high resolution WRF-Chem simulations](https://iopscience.iop.org/article/10.1088/1748-9326/ab25ae/pdf)
+
+**Authors**: [Zheng Tao],
+             [Ray Nassar],
+             [Martin Baxter]
+             
+**Presenter**: Maxim Chernetskiy      
+
+
 #### November 3, 2020
 
 - **Paper**: [La Plata basin precipitation variability in spring: role of remote SST forcing as simulated by GCM experiments](https://link.springer.com/article/10.1007/s00382-013-1768-y)
