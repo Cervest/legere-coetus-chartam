@@ -3,7 +3,7 @@
 Translated from Latin as _read the paper group_. On a weekly basis our science team reads and reviews anything from [_Challenges
 design choices for global weather and climate models based on machine learning_](https://www.geosci-model-dev.net/11/3999/2018/)
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
-.](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
+.](https://arxiv.org/abs/1902.02376)
 
 #### February 16, 2021
 
