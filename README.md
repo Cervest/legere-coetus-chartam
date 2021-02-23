@@ -5,6 +5,17 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376) See planned [future discussions](https://github.com/Cervest/legere-coetus-chartam#planned-discussions) below.
 
+#### February 16, 2021
+
+- **Paper**: [A review of drought concepts](https://www.sciencedirect.com/science/article/pii/S0022169410004257)
+
+- **Authors**: [Ashok K. Mishra](https://wpcarey.asu.edu/people/profile/2705118) and 
+               [Vijay P. Singh](https://baen.tamu.edu/people/singh-vijay/).
+
+- **Presenter**: Owen van Eer
+
+<img src="images/drought.png" width="600pt">
+
 #### November 24, 2020
 
 
