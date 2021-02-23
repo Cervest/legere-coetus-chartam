@@ -71,6 +71,7 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
              
 **Presenter**: Maxim Chernetskiy      
 
+<img src="images/carbon_profiling.png" width="600pt">
 
 #### November 3, 2020
 
