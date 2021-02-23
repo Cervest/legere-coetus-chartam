@@ -27,6 +27,16 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/multimodel_ensembles.png" width="600pt">
 
+#### December 11, 2020
+
+- **Paper**: [Downscaling probability of long heatwaves based on seasonal mean daily maximum temperatures](https://ascmo.copernicus.org/articles/4/37/2018/)
+
+- **Authors**: [Rasmus E. Benestad](https://www.emetsoc.org/people/person/rasmus-benestad/), Bob van Oort, Flavio Justino, Frode Stordal, Kajsa M. Parding, Abdelkader Mezghani, Helene B. Erlandsen, Jana Sillmann, and Milton E. Pereira-Flores.
+
+- **Presenter**: Ramani Lachyan and Lukas Scholtes
+
+<img src="images/downscaling_heatwaves.png" width="600pt">
+
 #### November 24, 2020
 
 
