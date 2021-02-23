@@ -16,6 +16,17 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 
 <img src="images/drought.png" width="600pt">
 
+#### February 2, 2021
+
+- **Paper**: [The use of the multi-model ensemble in probabilistic climate projections](The use of the multi-model ensemble in probabilistic climate projections)
+
+- **Authors**: [Claudia Tebaldi](https://www.climatecentral.org/what-we-do/people/claudia_tebaldi) and 
+               [Reto Knutti](https://iac.ethz.ch/people-iac/person-detail.html?persid=146272).
+
+- **Presenter**: Laura Zamboni
+
+<img src="images/multimodel_ensembles.png" width="600pt">
+
 #### November 24, 2020
 
 
