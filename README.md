@@ -5,6 +5,17 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376)
 
+
+#### April 13, 2021
+
+- **Paper:** [Endogenous Growth, Convexity of Damage and Climate Risk: How Nordhaus' Framework Supports Deep Cuts in Carbon Emissions](https://doi.org/10.1111/ecoj.12188)
+
+- **Authors:** [Simon Dietz](http://simondietz.com/) and [Nicholas Stern](https://www.lse.ac.uk/economics/people/faculty/nicholas-stern)
+
+- **Presenter:** Tim DuBois
+
+<img src="images/capital_growth.png" width="600pt">
+
 #### February 16, 2021
 
 - **Paper**: [A review of drought concepts](https://www.sciencedirect.com/science/article/pii/S0022169410004257)
