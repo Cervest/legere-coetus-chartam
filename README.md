@@ -6,6 +6,18 @@ to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376)
 
 
+#### Oct 11, 2021
+
+- **Paper:** [The Global Wind Atlas: An EUDP project carried out by DTU Wind Energy](https://backend.orbit.dtu.dk/ws/portalfiles/portal/238494910/GWA_64011_0347_FinalReport.pdf)
+
+- **Authors:** Badger, Jake; Hahmann, Andrea ; Larsén, Xiaoli Guo; Badger, Merete; Kelly, Mark; Olsen, Bjarke T.; Mortensen, Niels G.
+
+- **Lead by:** Amit Kushwaha
+- **Notes**: [Summary and discussion](https://docs.google.com/document/d/1o8hE57r-vdAaLcgTCVZJBzKLDSUTTjSiEwwaMENH2Mg/edit)
+
+<img src="images/GlobalWindAtlas.png" width="600pt">
+
+
 #### April 13, 2021
 
 - **Paper:** [Endogenous Growth, Convexity of Damage and Climate Risk: How Nordhaus' Framework Supports Deep Cuts in Carbon Emissions](https://doi.org/10.1111/ecoj.12188)
