@@ -5,6 +5,39 @@ design choices for global weather and climate models based on machine learning_]
 to [DiffEqFlux.jl - A Julia Library for Neural Differential Equations
 .](https://arxiv.org/abs/1902.02376)
 
+#### Feb 8, 2022
+
+- **Talk:** 
+
+- **Authors:** Ted
+
+- **Lead by:** Maxime Rischards
+- **Notes**: [Summary and discussion]()
+
+
+
+#### Jan 11, 2022
+
+- **Paper:** [The value of values in climate science](https://www.nature.com/articles/s41558-021-01238-9.epdf?sharing_token=9sTaZge6-YVe29-rqhAuSdRgN0jAjWel9jnR3ZoTv0MW3oJvK3EImaMOhYg7TVKCUXr-xeCVyJ-lnFq2VH0GssNQt3AoQqZNQ5E7rSfw455t4_ZH4hJb0dBw9N22Lmlthe2YWgCjryCcYhhd_v-P1KPND7gwYWDiLyksdRInlw4%3D)
+
+- **Authors:** Karoliina Pulkkinen, Sabine Undorf, Frida Bender, Per Wikman-Svahn, Francisco Doblas-Reyes, Clare Flynn, Gabriele C. Hegerl, Aiden Jönsson, Gah-Kai Leung, Joe Roussos, Theodore G. Shepherd and Erica Thompson
+
+- **Lead by:** Chloé Prod'Homme
+- **Notes**: [Summary and discussion]()
+
+
+
+#### Nov 16, 2021
+
+- **Paper:** [How do natural hazards cascade to cause disasters?](https://www.nature.com/articles/d41586-018-06783-6)
+
+- **Authors:** Amir AghaKouchak , Laurie S. Huning , Felicia Chiang , Mojtaba Sadegh , Farshid Vahedifard , Omid Mazdiyasni , Hamed Moftakhari & Iman Mallakpour
+
+- **Lead by:** Laura Zamboni
+- **Notes**: [Summary and discussion]()
+
+
+
 
 #### Oct 11, 2021
 
